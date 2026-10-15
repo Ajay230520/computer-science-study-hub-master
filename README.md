@@ -1,44 +1,37 @@
-# Computer Science Study Hub
+# M.Tech Software Engineering — Semester 1 Study Hub
 
-A practical, research-aware learning repository for Computer Science, Software Engineering, Mathematics, and Machine Learning.
+A structured, practical, research-aware repository for the six subjects in my M.Tech Software Engineering Semester 1. The first four are the **core technical subjects**; Technical Report Writing and Research Methodology support academic writing and research.
 
-## Learning standard
-Every substantial topic should include intuition, formal definitions and assumptions, easy-to-hard worked examples, practical relevance, code when useful, exercises, common mistakes, revision notes, and trustworthy references. Clearly distinguish verified facts from assumptions and illustrative examples. Never invent citations, datasets, benchmarks, or results.
+## Semester 1 dashboard
 
-## Subject map
-- [Mathematics for Computer Science & ML](mathematics/README.md)
-- [Machine Learning & AI](machine-learning/README.md)
-- [Digital Image Processing](digital-image-processing/README.md)
-- [Advanced Data Structures](advanced-data-structures/README.md)
-- [Algorithms & Complexity](algorithms/README.md)
-- [Computer Networks](computer-networks/README.md)
-- [Operating Systems](operating-systems/README.md)
-- [Database Systems](database-systems/README.md)
-- [Software Engineering](software-engineering/README.md)
-- [Programming & Systems](programming-and-systems/README.md)
-- [Security & Privacy](security-and-privacy/README.md)
-- [Research & Case Studies](research-and-case-studies/README.md)
+### Core technical subjects
+1. **[Advanced Data Structures](advanced-data-structures/README.md)** — concepts, invariants, worked traces, complexity, implementation, labs, and exam practice.
+2. **[Machine Learning](machine-learning/README.md)** — mathematical foundations, algorithms, evaluation, Python labs, and research-aware case studies.
+3. **[Mathematical Foundations of Computer Science](mathematics/README.md)** — logic, proofs, sets, relations, functions, graphs, combinatorics, recurrences, probability/statistics, and ML mathematics.
+4. **[Digital Image Processing](digital-image-processing/README.md)** — image fundamentals, enhancement, filtering, transforms, segmentation, morphology, compression, and practical labs.
 
-## Standard structure
-Substantial topics use `notes/`, `code/`, `exercises/`, and `case-studies/` where suitable. Reusable resources live in [templates/](templates/). Follow [CONTRIBUTING.md](CONTRIBUTING.md) for quality and citation rules.
+### Supporting academic subjects
+5. **[Technical Report Writing](technical-report-writing/README.md)** — report structure, technical clarity, figures/tables, citations, IEEE-style formatting, and presentations.
+6. **[Research Methodology](research-methodology/README.md)** — research questions, literature reviews, methods, experimental design, ethics, reproducibility, and research-paper evaluation.
 
-## Lesson workflow
-1. State prerequisites and measurable learning objectives.
-2. Explain intuition, then define the concept precisely and state assumptions.
-3. Work examples from simple to challenging, explaining every meaningful step.
-4. Add diagrams, code, tests, and complexity analysis where useful.
-5. Connect theory to a real application or verified case study.
-6. Add practice questions, hints/solutions, misconceptions, and revision prompts.
-7. Check accuracy, references, links, and runnable instructions before committing.
+## How each topic should be taught and documented
 
-## Study workflow
-After each study session, add the actual material studied to the appropriate subject path. Use small, focused commits with descriptive messages. Mark a topic reviewed only after solving its exercises and explaining it without copying the notes.
+- Start from prerequisites and a plain-language explanation.
+- Give a precise definition, notation, assumptions, and a diagram when helpful.
+- Work through examples from easy to intermediate to challenging, explaining every meaningful step.
+- Connect theory to realistic engineering problems and verified case studies.
+- Put runnable implementations, tests, and setup instructions in the relevant code/lab folder.
+- Add exercises, hints/solutions, common mistakes, revision cards, and exam-style questions.
+- Cite credible original papers, official documentation, standards, and dataset sources. Never invent results or references.
 
-## Recommended start
-1. [Mathematics foundations](mathematics/README.md)
-2. [Probability and Statistics](mathematics/probability-and-statistics/README.md)
-3. [Machine Learning](machine-learning/README.md)
-4. [Digital Image Processing](digital-image-processing/README.md)
-5. [Advanced Data Structures](advanced-data-structures/README.md)
+## Repository structure
 
-This is a living repository: prioritize accurate, useful material over creating many empty pages.
+Each subject has its own roadmap. As material grows, keep `notes/`, `code/` or `labs/`, `exercises/`, and `case-studies/` separate where useful. Shared standards are in [CONTRIBUTING.md](CONTRIBUTING.md); reusable formats are in [templates/](templates/); study reflections go in [learning-log/](learning-log/).
+
+## Progress policy
+
+A roadmap is not a completed course. We will mark topics as planned, in progress, or reviewed honestly. After each study session, the studied material should be added to the correct subject and checked for accuracy before committing.
+
+## Suggested cross-subject order
+
+Mathematical foundations support Machine Learning and Image Processing. Advanced Data Structures develops independent algorithmic reasoning. Research Methodology and Technical Report Writing should be used throughout the semester to document experiments and communicate results.
