@@ -12,6 +12,11 @@ Build mathematical reasoning for algorithms, ML, image processing, data science,
 
 For each subject: intuition → definition → notation → worked examples → edge cases → practical code/visualization → applications → exercises and review.
 
+## MFCS learning resources
 - [Probability and statistics](probability-and-statistics/README.md)
+- [Assignment and question-bank index](assignments/README.md)
+- [Fast, assignment-led teaching protocol](teaching-protocol.md)
+
+## Shared resources
 - [Templates](../templates/)
 - [Research and case studies](../research-and-case-studies/README.md)
