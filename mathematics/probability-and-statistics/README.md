@@ -30,3 +30,10 @@
 - [Case studies](case-studies/)
 
 Mark lessons **planned**, **in progress**, or **reviewed** honestly. A lesson is reviewed only after solving its exercises and explaining it without notes.
+
+
+## Topic notes
+- [Probability foundations: events, complements, OR, AND and conditional probability](notes/02-events-probability-rules.md)
+
+## Lesson standard
+Each topic begins with a clear explanation, intuitive and real-world examples, a compact formula/decision guide, and common mistakes. Practice usually contains five questions, progressing from easy to difficult; extend to ten only when needed. Keep assignment prompts separate from lesson examples and do not publish assignment solutions by default.
