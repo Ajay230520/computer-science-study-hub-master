@@ -14,6 +14,10 @@ A structured, practical, research-aware repository for the six subjects in my M.
 5. **[Technical Report Writing](technical-report-writing/README.md)** — report structure, technical clarity, figures/tables, citations, IEEE-style formatting, and presentations.
 6. **[Research Methodology](research-methodology/README.md)** — research questions, literature reviews, methods, experimental design, ethics, reproducibility, and research-paper evaluation.
 
+## Official syllabus references
+
+Searchable Markdown references transcribed from the six files shared for this study hub are in [syllabus/](syllabus/README.md). Note that the uploaded Technical Report Writing document is a Summer 2026 exam paper, not a syllabus. The GTU syllabus PDFs state A.Y. 2024–25, so confirm current applicability with LDCE/GTU.
+
 ## How each topic should be taught and documented
 
 - Start from prerequisites and a plain-language explanation.
