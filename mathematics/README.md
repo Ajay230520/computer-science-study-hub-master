@@ -15,6 +15,8 @@ For each subject: intuition → definition → notation → worked examples → 
 ## MFCS learning resources
 - [Probability and statistics](probability-and-statistics/README.md)
 - [Assignment and question-bank index](assignments/README.md)
+- [Practical lab index and runnable notebooks](practicals/README.md)
+- [Practical solution notes](practicals/SOLUTION-NOTES.md)
 - [Fast, assignment-led teaching protocol](teaching-protocol.md)
 
 ## Shared resources
