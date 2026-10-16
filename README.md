@@ -14,6 +14,15 @@ A structured, practical, research-aware repository for the six subjects in my M.
 5. **[Technical Report Writing](technical-report-writing/README.md)** — report structure, technical clarity, figures/tables, citations, IEEE-style formatting, and presentations.
 6. **[Research Methodology](research-methodology/README.md)** — research questions, literature reviews, methods, experimental design, ethics, reproducibility, and research-paper evaluation.
 
+## Career roadmap: Software Engineering + AI (2026–2028)
+
+Alongside the M.Tech syllabus, use the [Software Engineering Career Roadmap](career-roadmap/2026-2028-software-engineering-roadmap.md) to plan DSA, TypeScript/full-stack engineering, backend and database skills, system design, practical AI application engineering, portfolio projects, and job applications.
+
+**Primary target:** Full-Stack / Backend Software Engineer.  
+**Specialization:** AI application engineering after core engineering skills are demonstrable.  
+**Language sequence:** JavaScript for initial DSA → TypeScript for professional development → Python for AI.  
+The roadmap is a plan, not a guarantee; update it using actual job requirements and interview feedback.
+
 ## Study website
 
 - **Website source:** [`docs/`](docs/index.html)
