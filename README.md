@@ -14,6 +14,12 @@ A structured, practical, research-aware repository for the six subjects in my M.
 5. **[Technical Report Writing](technical-report-writing/README.md)** — report structure, technical clarity, figures/tables, citations, IEEE-style formatting, and presentations.
 6. **[Research Methodology](research-methodology/README.md)** — research questions, literature reviews, methods, experimental design, ethics, reproducibility, and research-paper evaluation.
 
+## Study website
+
+- **Website source:** [`docs/`](docs/index.html)
+- **MFCS practical register:** [`docs/practicals.html`](docs/practicals.html)
+- The GitHub Pages deployment workflow is in [`.github/workflows/deploy-study-site.yml`](.github/workflows/deploy-study-site.yml). After enabling **Settings → Pages → Build and deployment → GitHub Actions** and allowing the workflow to finish, the expected site URL is `https://ajay230520.github.io/computer-science-study-hub-master/`. The site is not confirmed live until GitHub Pages reports a successful deployment.
+
 ## Official syllabus references
 
 Searchable Markdown references transcribed from the six files shared for this study hub are in [syllabus/](syllabus/README.md). Note that the uploaded Technical Report Writing document is a Summer 2026 exam paper, not a syllabus. The GTU syllabus PDFs state A.Y. 2024–25, so confirm current applicability with LDCE/GTU.
