@@ -11,4 +11,5 @@
 8. Evaluation metrics and experimental design.
 9. Practical labs with Python and openly licensed/sample images.
 
-For each method explain mathematics, assumptions, parameter effects, visual output, computational cost, artifacts, and use cases.
+## Practicals
+- [Practical 2 — Image analysis, normalization, statistics and histograms](practicals/README.md)
