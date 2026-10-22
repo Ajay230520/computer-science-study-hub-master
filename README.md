@@ -18,6 +18,8 @@ A structured, practical, research-aware repository for the six subjects in my M.
 
 Alongside the M.Tech syllabus, use the [Software Engineering Career Roadmap](career-roadmap/2026-2028-software-engineering-roadmap.md) to plan DSA, TypeScript/full-stack engineering, backend and database skills, system design, practical AI application engineering, portfolio projects, and job applications.
 
+- **JavaScript ecosystem video notes:** [Markdown notes](career-roadmap/javascript-ecosystem-video-notes.md) · [PDF](career-roadmap/javascript-ecosystem-video-notes.pdf)
+
 **Primary target:** Full-Stack / Backend Software Engineer.  
 **Specialization:** AI application engineering after core engineering skills are demonstrable.  
 **Language sequence:** JavaScript for initial DSA → TypeScript for professional development → Python for AI.  
