@@ -13,6 +13,7 @@ Build mathematical reasoning for algorithms, ML, image processing, data science,
 For each subject: intuition → definition → notation → worked examples → edge cases → practical code/visualization → applications → exercises and review.
 
 ## MFCS learning resources
+- [Chapter 1 — Probability Foundations and Random Variables](chapters/chapter-01-probability-foundations.md) — beginner-first notes with worked examples, real-life/CS applications, assignment mapping, practicals and self-test.
 - [Probability and statistics](probability-and-statistics/README.md)
 - [Assignment and question-bank index](assignments/README.md)
 - [Practical lab index and runnable notebooks](practicals/README.md)
